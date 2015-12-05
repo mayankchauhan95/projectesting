@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<x:movies xmlns:x="urn:movies">
+<Movie>
+    <head> <!--x14116251--> </head>
+    <bags>
+        <h1>content</h1>
+      <h2>year2015<h2>
+<film11>
+      <Film>Two by Two</Film>
+      <Date> 1st May 2015</Date>
+	  <actor>Ava Connolly,  Callum Maloney,  Dermot Magennis,  Tara Flynn</actor>
+   </film11>
+
+   <film12>
+      <Film>Hunger games part:2</Film>
+      <Date> 20th November 2015</Date>
+	  <actor> Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth</actor>
+	  <about>As the war of Panem escalates to the destruction of other districts by the Capitol, Katniss Everdeen, the 
+	  reluctant leader of the rebellion, must bring together an army against President Snow, while all she holds dear hangs in the balance.</about>
+   </film12>
+ 
+ <film13>
+      <Film>Krampus (2015)</Film>
+      <Date> 4th december 2015</Date>
+	  <actor>  Adam Scott, Toni Collette, David Koechner, Allison Tolman</actor>
+	  <about>A boy who has a bad Christmas ends up accidentally summoning a Christmas demon to his family home. </about>
+   </film13>
+   
+   <film14>
+      <Film>Chi-Raq (2015)</Film>
+      <Date> 4th december 2015</Date>
+	  <actor> Nick Cannon, Teyonah Parris, Wesley Snipes, Angela Bassett</actor>
+	  <about>A modern day adaptation of the ancient Greek play Lysistrata by Aristophanes, set against the backdrop of gang violence in Chicago.</about>
+   </film14>
+  
+   
+   
+   <h2>year2014</h2>
+   <film15>
+      <Film>The Letters (2014)</Film>
+      <Date> 20th May 2014</Date>
+	  <actor> Juliet Stevenson, Rutger Hauer, Max von Sydow, Priya Darshini
+   </actor>
+	  <about>A drama that explores the life of Mother Teresa through letters she wrote to her longtime friend and spiritual advisor, Father 
+	  Celeste van Exem over a nearly 50-year period.</about>
+   </film15>
+   
+   	
+	<film16>
+      <Film>The Last Night (2014)</Film>
+      <Date> 3rd July2014</Date>
+	  <actor> Kôji Yakusho, Nana Komatsu, Satoshi Tsumabuki, Hiroya Shimizu
+   </actor>
+	  <about>As former detective Akikazu searches for his missing daughter, Kanako, he soon learns she has a mysterious secret life.</about>
+   </film16>
+   
+   <film17>
+      <Film>The Lego Movie  (2014)</Film>
+      <Date> 7th feb 2014</Date>
+	  <actor> Chris Pratt, Will Ferrell, Elizabeth Banks
+   </actor>
+	  <about>An ordinary Lego construction worker, thought to be the prophesied 'Special', is recruited to join a quest to stop an evil 
+   tyrant from gluing the Lego universe into eternal stasis.
+</about>
+   </film17>
+   
+<film18>
+      <Film>Penguins of Madagascar (2014)</Film>
+      <Date> 26th November 2014</Date>
+	  <actor>Tom McGrath, Chris Miller, Christopher Knights 
+   </actor>
+	  <about>Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine
+   from destroying the world as we know it.
+</about>
+  </film18>
+   
+  <film19>
+      <Film>Veronica Mars (2014)</Film>
+      <Date> 14th March 2014</Date>
+	  <actor>Kristen Bell, Jason Dohring, Enrico Colantoni
+   </actor>
+	  <about> Years after walking away from her past as a teenage private eye, Veronica Mars gets pulled back to her hometown
+   - just in time for her high school reunion - in order to help her old flame Logan Echolls, who's embroiled in a murder mystery.
+</about>
+   </film19>
+   
+   
+   
+  <film20>
+      <Film>X-Men: Days of Future Past (2014)</Film>
+      <Date> 23rd May 2014</Date>
+	  <actor> Patrick Stewart, Ian McKellen, Hugh Jackman 
+   </actor>
+	  <about> The X-Men send Wolverine to the past in a desperate effort to change history
+	  and prevent an event that results in doom for both humans and mutants.
+</about>
+  </film20>
+   
+   <film21>
+      <Film> The Amazing Spider-Man 2 (2014)</Film>
+      <Date> 2nd May 2014</Date>
+	  <actor> Andrew Garfield, Emma Stone, Jamie Foxx 
+   </actor>
+	  <about> When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.
+</about>
+  </film21>
+ </year>
+ 
+ 
+<h2>year2013<h2>
+<film22>
+      <Film>Man of Steel (2013)</Film>
+      <Date> 14 June 2013 </Date>
+	  <actor> Henry Cavill, Amy Adams, Michael Shannon
+   </actor>
+	  <about> Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is
+ forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
+
+</about>
+   </film22> 
+   
+   <film23>
+      <Film>The Hunger Games: Catching Fire (2013)</Film>
+      <Date> 22 November 2013 </Date>
+	  <actor> Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth
+   </actor>
+	  <about> Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 
+	  74th Hunger Games sparks a rebellion in the Districts of Panem.
+</about>
+   </film23>
+   
+   <film24>
+      <Film>   Frozen (I) (2013)</Film>
+      <Date> 22 November 2013 </Date>
+	  <actor> Kristen Bell, Idina Menzel, Jonathan Groff
+   </actor>
+	  <about> When the newly crowned Queen Elsa accidentally uses her power to turn things 
+into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, 
+his playful reindeer, and a snowman to change the weather condition.
+
+</about>
+   </film24>
+   
+
+   <film25>
+      <Film>  Despicable Me 2 (2013)</Film>
+      <Date> 3 July 2013  </Date>
+	  <actor> Steve Carell, Kristen Wiig, Benjamin Bratt
+   </actor>
+	  <about> When Gru, the world's most super-bad turned super-dad has been recruited by a team of
+ officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.
+</about>
+   </film25>
+
+  <film26>
+      <Film>   Thor: The Dark World (2013)</Film>
+      <Date>  8 November 2013  </Date>
+	  <actor> Chris Hemsworth, Natalie Portman, Tom Hiddleston 
+   </actor>
+	  <about> When Dr Jane Foster gets cursed with a powerful object, Thor must protect it before an army 
+and its ruthless leader try to get their hands on it to take over the remains of Earth.
+
+</about>
+   </film26> 
+   
+   <film27>
+      <Film>  The Wolverine (2013) </Film>
+      <Date>  26 July 2013  </Date>
+	  <actor> Hugh Jackman, Will Yun Lee, Tao Okamoto
+   </actor>
+	  <about>When Wolverine is summoned to Japan by an old acquaintance, he is 
+	  embroiled in a conflict that forces him to confront his own demons.
+</about>
+  </film27>
+  
+ <film28>
+      <Film>  The Hobbit: The Desolation of Smaug (2013)</Film>
+      <Date> 13 December 2013   </Date>
+	  <actor> Ian McKellen, Martin Freeman, Richard Armitage
+   </actor>
+	  <about>The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to 
+reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.
+
+</about>
+  </film28>
+   
+<film29>
+      <Film> World War Z (2013)</Film>
+      <Date>  21 June 2013  </Date>
+	  <actor> Brad Pitt, Mireille Enos, Daniella Kertesz
+   </actor>
+	  <about>United Nations employee Gerry Lane traverses the world in a race against time to stop
+ the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.
+</about>
+   </film29>
+   
+<film30>
+      <Film>G.I. Joe: Retaliation (2013)</Film>
+      <Date>28 March 2013   </Date>
+	  <actor> Dwayne Johnson, Channing Tatum, Adrianne Palicki
+   </actor>
+	  <about>The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats 
+from within the government that jeopardize their very existence.
+</about>
+   </film30> 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+   	
+
+
+
