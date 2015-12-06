@@ -26,8 +26,8 @@
                     <ul class="img-list">
                         <li>
                             <a href="">
-                                <div id = "Movie.img">
-                                    <img src="Images/Ring1.jpg" />
+                                <div id = "th.png">
+                                    <img src="images/thr.png" />
                                 </div>
                                 <span class="text-content">
                                     <br/>
@@ -52,8 +52,8 @@
                     <ul class="img-list">
                         <li>
                             <a href="">
-                                <div id = ".....img">
-                                    <img src="Images/Ring2.jpg" />
+                                <div id = "spider.png">
+                                    <img src="images/thr.png" />
                                 </div>
                                 <span class="text-content">
                                     <br/>
@@ -79,7 +79,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Ring3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                 <span class="text-content">
                                     <br/>
@@ -106,7 +106,7 @@
                         <li>
                             <a href="">
                                 <div id = "Movie.img">
-                                    <img src="Images/Ring1.jpg" />
+                                    <img src="images/thr.png" />
                                 </div>
                                 <span class="text-content">
                                     <br/>
@@ -160,7 +160,7 @@
                     <ul class="img-list">
                         <li>
                             <a href="">
-                                <div id = ".......img">
+                                <div id = "images/th.png">
                                     <img src="Image.jpg" />
                                 </div>
                                 <span class="text-content">
@@ -187,7 +187,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Earring2.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                  <span class="text-content">
                                    <br/>
@@ -214,7 +214,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Earring3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                  <span class="text-content">
                                    <br/>
@@ -239,7 +239,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Earring2.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                  <span class="text-content">
                                    <br/>
@@ -264,7 +264,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Earring2.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                  <span class="text-content">
                                    <br/>
@@ -289,7 +289,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Earring2.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                  <span class="text-content">
                                    <br/>
@@ -314,7 +314,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Earring2.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                  <span class="text-content">
                                    <br/>
@@ -366,7 +366,7 @@
                     <ul class="img-list">
                         <li>
                             <a href="">
-                                <div id = "AccessoriesImg">
+                                <div id = "images/th.png">
                                     <img src="Images/Watch1.jpg" />
                                 </div>
                                 <span class="text-content">
@@ -393,7 +393,7 @@
                     <ul class="img-list">
                         <li>
                             <a href="">
-                                <div id = "AccessoriesImg">
+                                <div id = "images/th.png">
                                     <img src="Images/Watch2.png" />
                                 </div>
                                 <span class="text-content">
@@ -422,7 +422,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Watch3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                 <span class="text-content">
                                    <br/>
@@ -446,7 +446,7 @@
                     <ul class="img-list">
                         <li>
                             <a href="">
-                                <div id = "AccessoriesImg">
+                                <div id = "images/th.png">
                                     <img src="Images/Watch3.jpg" />
                                 </div>
                                 <span class="text-content">
@@ -472,7 +472,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Watch3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                 <span class="text-content">
                                    <br/>
@@ -497,7 +497,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Watch3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                 <span class="text-content">
                                    <br/>
@@ -547,7 +547,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Watch3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                 <span class="text-content">
                                    <br/>
@@ -572,7 +572,7 @@
                         <li>
                             <a href="">
                                 <div id = "AccessoriesImg">
-                                    <img src="Images/Watch3.jpg" />
+                                    <img src="images/th.png" />
                                 </div>
                                 <span class="text-content">
                                    <br/>

@@ -4,18 +4,56 @@
   <meta charset="utf-8">
   <title>M&S Movies&Stars</title>
   <link rel="stylesheet" href="style.css">
+  
 
   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
   <script src="js/slides.min.jquery.js"></script>
-	
+<link rel="stylesheet" href="css/html5reset.css" media="all">
+	<link rel="stylesheet" href="css/col.css" media="all">
+	<link rel="stylesheet" href="css/2cols.css" media="all">
+	<link rel="stylesheet" href="css/3cols.css" media="all">
+	<link rel="stylesheet" href="css/4cols.css" media="all">
+	<link rel="stylesheet" href="css/5cols.css" media="all">
+	<link rel="stylesheet" href="css/6cols.css" media="all">
+	<link rel="stylesheet" href="css/7cols.css" media="all">
+	<link rel="stylesheet" href="css/8cols.css" media="all">
+	<link rel="stylesheet" href="css/9cols.css" media="all">
+	<link rel="stylesheet" href="css/10cols.css" media="all">
+	<link rel="stylesheet" href="css/11cols.css" media="all">
+	<link rel="stylesheet" href="css/12cols.css" media="all">
+  <meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="www.grahamrobertsonmiller.co.uk">
+
+	<meta http-equiv="cleartype" content="on">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<style type="text/css">
+
+	/*  
+	======================== 
+	- Note: These styles are just to pretty the basic page up a bit.
+	You should ignore these when copying and pasting into your site 
+	because your stylesheet should take care of making it look pretty!
+	======================== 
+	*/
+	body { padding:2em; font : 100%/1.4 'Helvetica Neue', arial, helvetica, helve, sans-serif; 	
+ }
+	h1 { font-size:2.2em; padding:0 0 .5em 0; }
+	h2 { font-size:1.5em; }
+	.header { padding:1em 0; }
+	.col { background: ; padding:1em 0; text-align:center;}
+
+	</style>
 	
 </head>
 
 <body>
 	<div id="header-wrap">
 		<header class="group">
-			<h2><a href="index.html" title="burstudio">Burnstudio</a></h2>
+			<h2><a href="index.html" title="M&s">M&S</a></h2>
 			<div id="slog">
 				<h3>You will never stop watching!</h3>
 				
@@ -25,7 +63,7 @@
 					<li class="home"><a href="index.html" title="">Home</a></li>
 					<li><a href="Movie.html" title="">Movies</a></li>
 					<li><a href="Actors.html" title="">Actors</a></li>
-					<li><a href="#" title="">Contact As</a></li>
+					
 					<li class="last">
 						<div>
 							<input type="text" name="search" placeholder="search" />
@@ -36,8 +74,103 @@
 			</nav>
 		</header>
 	</div><!-- end header wrap -->
+	<div class="section group">
+				<h3>Latest movies</h3>
+				</div>
 	
-	<footer class="group">
+	<div class="section group">
+					<div class="col span_1_of_4">
+					
+					
+					<img src="images/bs.jpg"  />
+					<br>Batman Vs Superman
+					</div>
+					<div class="col span_1_of_4">
+					<img src="images/up.jpg"  />
+					<br>Up
+					</div>
+					<div class="col span_1_of_4">
+					
+					<img src="images/hulk.jpg"  />
+					<br>Hulk
+					</div>
+					<div class="col span_1_of_4">
+					
+					<img src="images/ana.jpg"  />
+					<br>Anabell
+					</div>
+					
+					<div class="section group">
+					<div class="col span_1_of_4">
+					
+					
+					<img src="images/thor.jpg"  />
+					<br>Thor
+					</div>
+					<div class="col span_1_of_4">
+					<img src="images/an.jpg"  />
+					<br>Ant Man
+					</div>
+					<div class="col span_1_of_4">
+					
+					<img src="images/hg.jpg"  />
+					<br>Hungar Games
+					</div>
+					<div class="col span_1_of_4">
+					
+					<img src="images/in.jpg"  />
+					<br>Interstellar
+					</div>
+					
+					<div class="section group">
+					<div class="col span_1_of_4">
+					<img src="images/iron.jpg"  />
+					<br>Iron Man
+					</div>
+					<div class="col span_1_of_4">
+					<img src="images/lucy.jpg"  />
+					<br>Lucy
+					</div>
+					<div class="col span_1_of_4">
+					
+					<img src="images/cap.jpg"  />
+					<br>Captain America
+					</div>
+					<div class="col span_1_of_4">
+					
+					<img src="images/pre.jpg"  />
+					<br>Predator
+					</div>
+				
+				
+				
+	
+	
+	
+	
+	
+	
+<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				generateNextPrev: true,	
+			});
+		});
+</script>
+
+</body>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+<footer class="group">
 		<div id="footer-left">
 			<p>Copyright <a href="#" class="green">www.M&S.com</a> </br>
 			Designed by <a href="#" class="green">Kuldeep Rawat & Mayank Chauhan</a></p>
@@ -61,16 +194,4 @@
 				
 				
 	</footer>
-	
-	
-<script>
-		$(function(){
-			$('#slides').slides({
-				preload: true,
-				generateNextPrev: true,	
-			});
-		});
-</script>
-
-</body>
 </html>

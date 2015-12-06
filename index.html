@@ -1,31 +1,34 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>M&S Movies&Stars</title>
+  <meta name ="viewport" content="width=device-width, initial-scale=1.0">
+  <link href ="css/bootstrap.min.css"  rel = "stylesheet">
+  <link href ="css/styles.css" rel = "stylesheet">
+  <title> M&S Movies&Stars</title>
   <link rel="stylesheet" href="style.css">
+
 
   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
   <script src="js/slides.min.jquery.js"></script>
-	
-	
+	<!-- Latest compiled and minified CSS -->
+
 </head>
 
 <body>
 	<div id="header-wrap">
 		<header class="group">
-			<h2><a href="index.html" title="burstudio">Burnstudio</a></h2>
+			<h2><a href="index.html" title="M&S">M&S</a></h2>
 			<div id="slog">
 				<h3>You will never stop watching!</h3>
 				
 			</div><!-- end call -->
-			<nav class="group">
+			<nav class="group group-inverse group-static-top" >
 				<ul>
 					<li class="home"><a href="index.html" title="">Home</a></li>
 					<li><a href="Movie.html" title="">Movies</a></li>
 					<li><a href="Actors.html" title="">Actors</a></li>
-					<li><a href="#" title="">Contact As</a></li>
+					
 					<li class="last">
 						<div>
 							<input type="text" name="search" placeholder="search" />
@@ -43,7 +46,7 @@
 			<div class="slides_container">
 			<div>
 					
-						<img src="images/ant.jpg" alt="slide1" />
+						<img src="images/ant.jpg"  />
 					
 					<div class="slide-right">
 						
@@ -51,25 +54,8 @@
 					</div>
 				</div>
 				<div>
-				<video width="320" height="240" controls>
-  <source src="images/antV.mp4" type="video/mp4">
-  <source src="antV.ogg" type="video/ogg">
-  Your browser does not support the video tag.
- 
-</video>
-					<video width="320" height="240" controls>
-  <source src="images/antV.mp4" type="video/mp4">
-  <source src="antV.ogg" type="video/ogg">
-  Your browser does not support the video tag.
- 
-</video>
-<video width="320" height="240" controls>
-  <source src="images/antV.mp4" type="video/mp4">
-  <source src="antV.ogg" type="video/ogg">
-  Your browser does not support the video tag.
- 
-</video>
-						
+				
+					<img src="images/th.png"  />	
 					
 					<div class="slide-right">
 						
@@ -79,32 +65,14 @@
 				
 				<div>
 					
-						<img src="images/avg.png" alt="slide1" />
+						<img src="images/bs.png"  />
 					
 					<div class="slide-right">
 						
 					</div>
 				</div>
 				<div>
-				<video width="320" height="240" controls>
-  <source src="images/antV.mp4" type="video/mp4">
-  <source src="antV.ogg" type="video/ogg">
-  Your browser does not support the video tag.
- 
-</video>
-					<video width="320" height="240" controls>
-  <source src="images/antV.mp4" type="video/mp4">
-  <source src="antV.ogg" type="video/ogg">
-  Your browser does not support the video tag.
- 
-</video>
-<video width="320" height="240" controls>
-  <source src="images/antV.mp4" type="video/mp4">
-  <source src="antV.ogg" type="video/ogg">
-  Your browser does not support the video tag.
- 
-</video>
-						
+				<img src="images/avg.png"  />
 					
 					<div class="slide-right">
 						
@@ -114,6 +82,32 @@
 				
 			</div><!-- end slies container -->
 		</div><!-- end slides -->
+		
+		
+		
+		
+    <div class="left">
+     
+     <video width="945" height="245" controls>
+  <source src="videos/antV.mp4" type="video/mp4">
+  <source src="antV.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+ 
+</video>
+      <br>
+    </div>
+    <div class="right">
+      <video width="945" height="245" controls>
+  <source src="videos/bats.mp4" type="video/mp4">
+  <source src="antV.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+ 
+</div>
+				
+		
+		
+		
+		
 		
 		<div id="service">
 			
@@ -143,13 +137,39 @@
 		
 		
 	
-	<footer class="group">
+	
+	
+	
+	
+	
+<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				generateNextPrev: true,	
+			});
+		});
+</script>
+<!-- Latest compiled and minified JavaScript -->
+
+
+<script src ="js.bootstrap.js"></script>
+</body>
+<br>
+<br>
+<br>
+<br>
+
+
+<footer class="group">
 		<div id="footer-left">
 			<p>Copyright <a href="#" class="green">www.M&S.com</a> </br>
 			Designed by <a href="#" class="green">Kuldeep Rawat & Mayank Chauhan</a></p>
+			
 		</div>
 			
 		<div id="footer-right">
+		
 			<ul>
 				
    
@@ -163,16 +183,4 @@
 				
 				
 	</footer>
-	
-	
-<script>
-		$(function(){
-			$('#slides').slides({
-				preload: true,
-				generateNextPrev: true,	
-			});
-		});
-</script>
-
-</body>
 </html>
