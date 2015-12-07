@@ -115,8 +115,46 @@
 					
 					<h3>News About Movies </h3>	
 					<p>While there’s still five months until we see Crossbones unleash more chaos in Captain America: Civil War, we now have a better sense of what will be driving him this time around.</p>
-					<p><a href="text.txt" class="readmore">read more</a></p>
-				</div><!-- end web -->
+					
+					<!--<p><a href=""class="readmore">read more</a></p>  --->
+					<button type="button" onclick="loadDoc()">Read More</button>
+				</div> <!-- end web -->
+				
+			
+				<script>
+function loadDoc() {
+  var xhttp;
+  if (window.XMLHttpRequest) {
+    // code for modern browsers
+    xhttp = new XMLHttpRequest();
+    } else {
+    // code for IE6, IE5
+    xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xhttp.onreadystatechange = function() {
+    if (xhttp.readyState == 4 && xhttp.status == 200) {
+      document.getElementById("demo").innerHTML = xhttp.responseText;
+    }
+  };
+  xhttp.open("GET", "ajax_info.txt", true);
+  xhttp.send();
+}
+</script>
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 				
 				<div id="vector">
 				         
@@ -154,6 +192,8 @@
 
 
 <script src ="js.bootstrap.js"></script>
+
+
 </body>
 <br>
 <br>
