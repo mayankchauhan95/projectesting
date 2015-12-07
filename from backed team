@@ -1,0 +1,63 @@
+From Backend Team
+API
+
+GET ORDERS
+
+GET request to /api/orders
+Sample Response:
+[
+{
+id:1,
+name:'James'
+trailer:id:1,
+name:'James',
+trailer:'spider man 3',
+},
+
+{
+id:1,
+name:'John',
+trailer:'fast and furious 6',
+},
+]
+
+----------
+Add an order
+POST request to api/orders
+Type:JSON
+
+Sample Post;
+{name:'James',
+trailer:'spider man 3',
+}
+Sample Response:
+{ id:3,
+name:'James',
+trailer:'spider man 3',
+}
+----------------
+
+Update an order
+PUT request to /api/orders/{id}
+
+Sample Post
+{
+id:1,
+name:'James',
+trailer:'spider man 3',
+}
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
