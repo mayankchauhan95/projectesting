@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>M&S Movies&Stars Feed</title>
+<description>Website Feed coded manually</description>
+<link>http://mymoviestar66.blogspot.com/</link>
+<item>
+<title>Names</title>
+<description>the name of movies for you to search</description>
+<link>http://mymoviestar66.blogspot.com//film.htm</link>
+</item>
+<item>
+<title>Releasing Dates</title>
+<description>about the dates of each movie release</description>
+<link>http://mymoviestar66.blogspot.com//date.htm</link>
+</item>
+<item>
+<title>Favourite Actors</title>
+<description>A page telling about favourite actors</description>
+<link>http://mymoviestar66.blogspot.com//actors.htm</link>
+</item>
+<item>
+<title>About Movies</title>
+<description>Telling about the Movies</description>
+<link>http://mymoviestar66.blogspot.com//about.htm</link>
+</item>
+</channel>
+</rss>

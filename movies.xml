@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<x:movies xmlns:x="urn:movies">
-<Movie>
+<?xml-stylesheet type="text/css" href="xmlmoviestyle.css"?>
+<Movies>
     <head> <!--x14116251--> </head>
-    <bags>
+
         <h1>content</h1>
-      <h2>year2015<h2>
+      <h2>year2015</h2>
 <film11>
       <Film>Two by Two</Film>
       <Date> 1st May 2015</Date>
@@ -104,7 +104,7 @@
 	  <about> When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.
 </about>
   </film21>
- </year>
+ 
  
  
 <h2>year2013<h2>
@@ -202,137 +202,5 @@ reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a 
 	  <about>The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats 
 from within the government that jeopardize their very existence.
 </about>
-   </film30> 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
- 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-   
-   
-   
-   
-   
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-   	
-
-
-
+ </film30>
+ </Movies>

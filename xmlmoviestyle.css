@@ -1,0 +1,35 @@
+Movie
+     { display: block }
+
+Film
+     { display: block;
+       font-family: arial;
+       color: #000080; 
+       font-weight: 400; 
+       margin-left: 15pt;
+       margin-top: 12pt;
+       font-size: 18 }
+Date
+     { display: block;
+       font-family: arial;
+       color: #600060; 
+       font-weight: 400; 
+       margin-left: 45pt;
+       margin-top: 5pt;
+       font-size: 18 }
+actor
+     { display: block;
+       font-family: arial;
+       color: #006000; 
+       font-weight: 400; 
+       margin-left: 45pt;
+       margin-top: 5pt;
+       font-size: 18 }
+about
+     { display: block;
+       font-family: arial;
+       color: #800000; 
+       font-weight: 400; 
+       margin-left: 45pt;
+       margin-top: 5pt;
+       font-size: 18 }
